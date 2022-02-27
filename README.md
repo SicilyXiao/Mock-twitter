@@ -1,27 +1,21 @@
-# Part 3 - *Twitter*
 
-This is a basic twitter app to read your tweets.
+# Twitter - Part II
 
-Time spent: **4** hours spent in total
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [x] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can log in. (1pt)
-- [x] User can log out. (1pt)
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [ ] User can retweet a tweet. (2pts)
 
-The following **bonus** features are implemented:
-
-- [x] User can pull to refresh. (1pt)
-- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/86068048/154624353-e912137d-5b3b-4b1c-a338-349cca427be4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://user-images.githubusercontent.com/86068048/155865769-6488fd89-62ba-4e2b-8c85-13b7935e4509.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
